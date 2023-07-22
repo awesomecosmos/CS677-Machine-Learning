@@ -1,5 +1,8 @@
 # CS677-Machine-Learning
-Repository for storing code for my Pace University course CS677 Machine Learning.
+
+Repository for storing code for my MS in Data Science course CS677 Machine Learning at Pace University.
+
+**Course description:** Students will study various machine learning algorithms and their connection to the theoretical framework. The course topics include Introduction to Machine Learning, Formal Learning Model, Uniform Convergence, Linear Predictors, Bias-variance trade- off, Boosting, Non-uniform Learnability, Model Selection, and Validation. Convex learning, Regularization, and stability, Stochastic gradient descent, Support vector machines, Kernel methods. Finally, the course culminates with additional topics such as Decision Trees, clustering, dimensionality reduction, feature selection, and generation (optional topics may be included for learning purposes but not in the exam).
 
 ## Discussion Posts
 
