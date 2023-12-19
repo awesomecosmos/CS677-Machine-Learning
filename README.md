@@ -35,7 +35,7 @@ Repository for storing code for my MS in Data Science course CS677 Machine Learn
 ### Final Exam
 - [Final Exam](https://github.com/awesomecosmos/CS677-Machine-Learning/blob/main/Final%20Exam/README.md)
 
-[back to top](#course-assessments)twt2[gww]
+[back to top](#course-assessments)
 
 ### Discussion Posts
 
