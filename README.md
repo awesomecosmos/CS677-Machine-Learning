@@ -4,6 +4,31 @@ Repository for storing code for my MS in Data Science course CS677 Machine Learn
 
 **Course description:** Students will study various machine learning algorithms and their connection to the theoretical framework. The course topics include Introduction to Machine Learning, Formal Learning Model, Uniform Convergence, Linear Predictors, Bias-variance trade- off, Boosting, Non-uniform Learnability, Model Selection, and Validation. Convex learning, Regularization, and stability, Stochastic gradient descent, Support vector machines, Kernel methods. Finally, the course culminates with additional topics such as Decision Trees, clustering, dimensionality reduction, feature selection, and generation (optional topics may be included for learning purposes but not in the exam).
 
+## Course Assessments
+
+- [Assignments](#assignments)
+- [Midterm Project](#midterm-projects)
+- [Final Project](#final-project)
+- [Final Exam](#final-exam)
+- [Discussion Posts](#discussion-posts)
+
+## Assignments
+
+- [Assignment 1](https://github.com/awesomecosmos/CS677-Machine-Learning/blob/main/Assignment%201/cs677_assignment1.pdf)
+- [Assignment 2](https://github.com/awesomecosmos/CS677-Machine-Learning/blob/main/Assignment%202/assignment2.ipynb)
+- [Assignment 3](https://github.com/awesomecosmos/CS677-Machine-Learning/blob/main/Assignment%203/assignment3.ipynb)
+- [Assignment 4](https://github.com/awesomecosmos/CS677-Machine-Learning/blob/main/Assignment%204/assignment4.ipynb)
+
+## Midterm Project
+
+- [Midterm Project](https://github.com/awesomecosmos/CS677-Machine-Learning/blob/main/Midterm%20Project/README.md)
+
+## Final Project
+- [Final Project](https://github.com/awesomecosmos/CS677-Machine-Learning/tree/main/Final%20Project)
+
+## Final Exam
+- [Final Exam](https://github.com/awesomecosmos/CS677-Machine-Learning/blob/main/Final%20Exam/README.md)
+
 ## Discussion Posts
 
 Here are some of the discussion posts I submitted in response to various prompts.
